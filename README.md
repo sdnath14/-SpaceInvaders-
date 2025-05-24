@@ -4,7 +4,7 @@ A colorful and retro-style **Space Invaders clone** built using **Java Swing**!
 Blast your way through waves of pixel aliens and score big in this nostalgic arcade experience.
 
 ![Gameplay Screenshot]
-![image](https://github.com/user-attachments/assets/3dcebdab-6627-4d15-8917-d3c771270ffa)
+
 
 
 
